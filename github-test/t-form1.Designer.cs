@@ -58,7 +58,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnview);
             this.Name = "Form1";
-            this.Text = "t-form1";
+            this.Text = " ";
             this.ResumeLayout(false);
             this.PerformLayout();
 
