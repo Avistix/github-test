@@ -16,5 +16,15 @@ namespace github_test
         {
             InitializeComponent();
         }
+
+        private void btnview_Click(object sender, EventArgs e)
+        {
+           t_form2 obj = new t_form2();
+            obj.Show();
+            Hide();
+            
+            
+
+        }
     }
 }
