@@ -44,11 +44,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(53, 134);
+            this.label2.Location = new System.Drawing.Point(58, 133);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(164, 13);
+            this.label2.Size = new System.Drawing.Size(165, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "github-test was tested sucessfully";
+            this.label2.Text = "github-test was tested succesfully";
             // 
             // t_form2
             // 
